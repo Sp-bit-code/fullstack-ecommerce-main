@@ -63,7 +63,7 @@
 <h3>1. Clone the Repository</h3>
 <pre>
 <code>
-git clone https://github.com/adarshupadhyay21/shopease.git
+git clone https://github.com/Sp-bit-code/fullstack-ecommerce-main
 cd shopease
 </code>
 </pre>
